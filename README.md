@@ -1,4 +1,4 @@
-# PostgreSQL with Python
+# PyPostgresCSV: Building PostgreSQL Database with CSV Data using Python
 ## Overview
 This project demonstrates the creation of a database in PostgreSQL using Python and the insertion of data from CSV files into the database tables. It involves the following steps:
 
